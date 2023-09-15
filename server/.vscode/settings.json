@@ -1,0 +1,18 @@
+{
+  "[prisma]": {
+    "editor.formatOnSave": true
+  },
+
+  "cSpell.language": "en,pt,pt_BR",
+  "cSpell.customDictionaries": {
+    "project-words": {
+      "name": "project-words",
+      "path": "./.vscode/dict.txt",
+      "scope": "workspace",
+      "addWords": true
+    }
+  },
+
+  "editor.formatOnSave": true
+
+}
