@@ -38,7 +38,7 @@ export async function uploadVideoRoute(app: FastifyInstance): Promise<void> {
 
     const uploadDestination = path.resolve(
       __dirname,
-      '../../tmp',
+      '../../upload',
       fileUploadName,
     )
 

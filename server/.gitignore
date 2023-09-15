@@ -1,4 +1,4 @@
-node_modules
+**/node_modules
 .env
-/tmp/*.mp3
+/upload/*.mp3
 **/prisma/dev.db
