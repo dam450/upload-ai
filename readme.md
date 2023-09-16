@@ -38,7 +38,7 @@ acesse a pasta `server` do projeto e instale as dependencias do backend
 pnpm install
 ```
 
-Crie o arquivo `.env` informando as [variáveis de ambiente](#variáveis_de_ambiente/) conforme modelo
+Crie o arquivo `.env` informando as [variáveis de ambiente](#vari%C3%A1veis-de-ambiente) conforme modelo
 
 execute a migration para criação do banco de dados
 
