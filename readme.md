@@ -14,7 +14,7 @@
   </a>
 </p>
 
-Aplicação para upload e transcrição de vídeos para gerar títulos e descrições do vídeo fornecido com uso da API de inteligência artificial da OpenAI.
+Aplicação para upload e transcrição de vídeos para, com uso da API de inteligência artificial da OpenAI, gerar títulos e descrições do vídeo para auxílio a produtores de conteúdo.
 
 ## Demonstração
 
