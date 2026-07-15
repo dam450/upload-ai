@@ -20,7 +20,7 @@ Aplicação para upload e transcrição de vídeos para, com uso da API de intel
 
 <p align="center">
   <a href="#demonstração">
-    <img alt="License" src="./.github/preview.gif">
+    <img alt="License" src="https://github.com/dam450/upload-ai/blob/927a2077f8c6343eddf56cff27f1f3c414b6957d/.github/preview.gif?raw=true">
   </a>
 </p>
 
